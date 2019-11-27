@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "serial_data_receive_print_on_lcd", "serial_data_receive_print_on_lcd\serial_data_receive_print_on_lcd.cproj", "{EC1CE21A-0324-4E0A-8C50-78C4D47F3069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1CE21A-0324-4E0A-8C50-78C4D47F3069}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EC1CE21A-0324-4E0A-8C50-78C4D47F3069}.Debug|AVR.Build.0 = Debug|AVR
+		{EC1CE21A-0324-4E0A-8C50-78C4D47F3069}.Release|AVR.ActiveCfg = Release|AVR
+		{EC1CE21A-0324-4E0A-8C50-78C4D47F3069}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

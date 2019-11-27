@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "heart_rate_", "heart_rate_\heart_rate_.cproj", "{FB05DAF8-47A1-4971-BAC7-594BC865C6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB05DAF8-47A1-4971-BAC7-594BC865C6CA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FB05DAF8-47A1-4971-BAC7-594BC865C6CA}.Debug|AVR.Build.0 = Debug|AVR
+		{FB05DAF8-47A1-4971-BAC7-594BC865C6CA}.Release|AVR.ActiveCfg = Release|AVR
+		{FB05DAF8-47A1-4971-BAC7-594BC865C6CA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
